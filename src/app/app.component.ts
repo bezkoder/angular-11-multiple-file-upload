@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular11MultipleFilesUpload';
+  title = 'Angular 11 Multiple Files Upload';
 }
